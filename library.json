@@ -20,5 +20,6 @@
     },
     "version": "1.0.0",
     "frameworks": "arduino",
-    "platforms": "atmelavr"
+    "platforms": "atmelavr",
+    "downloadUrl": "http://platformio.s3-website.eu-central-1.amazonaws.com/EEZYbotARM-MK2-Controller.zip"
 }
